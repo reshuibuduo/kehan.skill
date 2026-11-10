@@ -1,0 +1,46 @@
+{
+  "reviewed_at": "2026-11-10",
+  "timezone": "Asia/Shanghai",
+  "full_history_verified": false,
+  "wechat_account": "董科含",
+  "wechat_biz": "MjM5Mzk1NzIwMw==",
+  "total_unique_records": 40,
+  "verified_self_wechat_count": 6,
+  "official_supplement_count": 2,
+  "huxiu_author_feed_reported_total": 11,
+  "huxiu_articles_reviewed": 11,
+  "sogou_pages_reviewed": 10,
+  "sogou_result_slots_reviewed": 96,
+  "sogou_account_matching_unique_titles": 16,
+  "wechat_profile_observed_original_count": 45,
+  "wechat_profile_observed_original_count_note": "2026-11-10原生微信个人主页截图显示45篇原创内容；该数字不是本人署名文章总数，也未据此推算收集率。",
+  "corpus_form": "Traceable metadata and compact notes; 5 full texts supplied by the user are included verbatim, with boundary whitespace trimmed only; no newly scraped full articles.",
+  "gaps": [
+    "公众号历史列表尚未逐页到底，删除、历史改名及搜索未收录文章数量未知。",
+    "正文原创标记与实际作者署名需要逐篇区分。",
+    "原文首发日期尚待核实，转载时间和索引时间分字段存放。",
+    "一群AI Native创始人一文存在转载署名冲突。",
+    "本次4条新增用户正文缺原标题、署名、链接与首发日期；其中第2条可能对应既有待核实题名，未确认为同篇，不据记录总数声称文章去重全量。"
+  ],
+  "native_recent_title_only_records": 3,
+  "user_supplied_record_count": 4,
+  "local_full_text_count": 5,
+  "local_full_text_origin": "user_provided",
+  "user_submission_passage_count": 6,
+  "user_submission_duplicate_input_numbers": [
+    [
+      5,
+      6
+    ]
+  ],
+  "default_retrieval_scope": "usable",
+  "default_retrieval_note": "已核实本人署名与用户提供正文均可检索；后者保持独立来源标签，不增加已核实本人公众号篇数。",
+  "skill_version": "0.2.0",
+  "primary_use": "sample-grounded thinking, conversation and article writing",
+  "persona_reference_method": "Nuwa-inspired limited-corpus extraction, not full six-track Nuwa research",
+  "voice_sample_count": 8,
+  "narrative_case_count": 6,
+  "candidate_mental_model_count": 4,
+  "independent_holdout_tested": false,
+  "parameter_training_performed": false
+}

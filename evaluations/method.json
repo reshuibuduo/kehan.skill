@@ -1,0 +1,11 @@
+{
+  "tested_at": "2026-11-10",
+  "answer_r": "with_skill",
+  "answer_k": "baseline",
+  "judge": "independent_agent_blind_to_mapping",
+  "result": "overall_tie",
+  "held_out_source_validation": false,
+  "inference": "small sample; no significant improvement claim",
+  "model_identity": "session default inherited; exact identifier not exposed",
+  "public_report_edit": "Replace machine-specific report/source paths with repository-relative paths; conclusions and scores unchanged."
+}

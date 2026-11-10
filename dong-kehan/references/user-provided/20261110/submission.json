@@ -1,0 +1,55 @@
+{
+  "received_at": "2026-11-10",
+  "source": "contributor_supplied_article_text",
+  "provided_passage_count": 6,
+  "unique_body_count": 5,
+  "missing_sequence_numbers": [
+    4
+  ],
+  "parsing": "Split at user-supplied numeric boundaries; trim boundary whitespace only; preserve body wording, markup and HTML entities.",
+  "passages": [
+    {
+      "input_number": 1,
+      "body_file": "references/user-provided/20261110/01-bole.txt",
+      "sha256": "e30282422facc836162fd2848b78fa093b937e33cb52f501ecdc68e6ff8f3c50",
+      "utf8_bytes": 13673,
+      "characters": 4882
+    },
+    {
+      "input_number": 2,
+      "body_file": "references/user-provided/20261110/02-must-build.txt",
+      "sha256": "443f44dc08390d6519c194f4923fbd76d083cc4a7df20e4a01f58e7c83ae62c2",
+      "utf8_bytes": 10110,
+      "characters": 3450
+    },
+    {
+      "input_number": 3,
+      "body_file": "references/user-provided/20261110/03-financing.txt",
+      "sha256": "21877f6a3f1cda61c65f1facee86baf84b72985da41818c7514f67e3c9ec63cf",
+      "utf8_bytes": 25837,
+      "characters": 8946
+    },
+    {
+      "input_number": 5,
+      "body_file": "references/user-provided/20261110/05-ai-paradigm.txt",
+      "sha256": "332428e668bc0c154b94949ed80e83507930420e0067bfe9318015b52360d562",
+      "utf8_bytes": 13865,
+      "characters": 4803
+    },
+    {
+      "input_number": 6,
+      "body_file": "references/user-provided/20261110/05-ai-paradigm.txt",
+      "sha256": "332428e668bc0c154b94949ed80e83507930420e0067bfe9318015b52360d562",
+      "utf8_bytes": 13865,
+      "characters": 4803,
+      "duplicate_of_input_number": 5
+    },
+    {
+      "input_number": 7,
+      "body_file": "references/user-provided/20261110/07-frontier-apprenticeship.txt",
+      "sha256": "dd26c019ab8ec1b55d48aa3665452cf4eecf65dbf937c0f4a02a02436c08b696",
+      "utf8_bytes": 29757,
+      "characters": 10419
+    }
+  ]
+}
